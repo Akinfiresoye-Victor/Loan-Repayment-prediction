@@ -1,6 +1,6 @@
 # Loan Repayment Prediction
 
-A Python project that predicts whether a client will repay a loan, using machine learning classification.
+A Python project that predicts whether a client will repay a loan, using Decision Trees in ML.
 
 ---
 
