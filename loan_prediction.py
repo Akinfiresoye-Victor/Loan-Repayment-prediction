@@ -28,5 +28,7 @@ data_entropy.fit(X_train, Y_train)
 
 y_pred= data_entropy.predict(X_test)
 
-print(f"Accuracy is {accuracy_score(Y_test, y_pred)*100}%")
+#to get accuracy of your prediction 
+# print(f"Accuracy is {accuracy_score(Y_test, y_pred)*100}%")
+
 
